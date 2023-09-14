@@ -2,7 +2,7 @@ import moviepy.editor as mp
 import speech_recognition as sr
 
 # MP4 dosyasını yükle
-video_file = "20230524_034658.mp4"
+video_file = "video.mp4"
 
 # MP4 dosyasından sesi çıkart
 clip = mp.VideoFileClip(video_file)
